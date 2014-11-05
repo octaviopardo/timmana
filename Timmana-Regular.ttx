@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.5">
+  <GlyphOrder src="Timmana-Regular.GlyphOrder.ttx"/>
+  <head src="Timmana-Regular._h_e_a_d.ttx"/>
+  <hhea src="Timmana-Regular._h_h_e_a.ttx"/>
+  <maxp src="Timmana-Regular._m_a_x_p.ttx"/>
+  <OS_2 src="Timmana-Regular.O_S_2f_2.ttx"/>
+  <name src="Timmana-Regular._n_a_m_e.ttx"/>
+  <cmap src="Timmana-Regular._c_m_a_p.ttx"/>
+  <post src="Timmana-Regular._p_o_s_t.ttx"/>
+  <CFF src="Timmana-Regular.C_F_F_.ttx"/>
+  <GDEF src="Timmana-Regular.G_D_E_F_.ttx"/>
+  <GPOS src="Timmana-Regular.G_P_O_S_.ttx"/>
+  <GSUB src="Timmana-Regular.G_S_U_B_.ttx"/>
+  <hmtx src="Timmana-Regular._h_m_t_x.ttx"/>
+</ttFont>
