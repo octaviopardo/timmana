@@ -3,9 +3,9 @@
 
   <hhea>
     <tableVersion value="1.0"/>
-    <ascent value="879"/>
-    <descent value="-776"/>
-    <lineGap value="59"/>
+    <ascent value="891"/>
+    <descent value="-739"/>
+    <lineGap value="0"/>
     <advanceWidthMax value="1785"/>
     <minLeftSideBearing value="-956"/>
     <minRightSideBearing value="-130"/>

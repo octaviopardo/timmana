@@ -38,11 +38,11 @@
     <fsSelection value="00000000 00100000"/>
     <fsFirstCharIndex value="0"/>
     <fsLastCharIndex value="64258"/>
-    <sTypoAscender value="879"/>
-    <sTypoDescender value="-776"/>
-    <sTypoLineGap value="59"/>
-    <usWinAscent value="879"/>
-    <usWinDescent value="776"/>
+    <sTypoAscender value="891"/>
+    <sTypoDescender value="-739"/>
+    <sTypoLineGap value="0"/>
+    <usWinAscent value="891"/>
+    <usWinDescent value="739"/>
     <ulCodePageRange1 value="00100000 00000000 00000000 00000001"/>
     <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
     <sxHeight value="472"/>
