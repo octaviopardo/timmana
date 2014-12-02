@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U0C15_U0C42.psts_glyph495" format="1">
+  <advance width="972"/>
+  <outline>
+    <component base="U0C35_U0C3E.abvs.alt" xOffset="10"/>
+    <component base="U0C46.alt" xOffset="4"/>
+    <component base="glyph511.alt02" yOffset="193"/>
+  </outline>
+</glyph>

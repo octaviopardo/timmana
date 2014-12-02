@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U0C15_U0C46_U0C56_U0C30_U0C4D" format="1">
+  <advance width="652"/>
+  <outline>
+    <component base="U0C15_U0C46.abvs" xOffset="30"/>
+    <component base="glyph511.alt02" yOffset="1"/>
+    <component base="glyph493" xOffset="646" yOffset="70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

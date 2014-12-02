@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="firsttonechinese" format="1">
+  <advance width="336"/>
+  <unicode hex="02C9"/>
+  <outline>
+    <component base="macron"/>
+    <contour>
+      <point x="152" y="478" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

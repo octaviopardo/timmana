@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U0C37_U0C46.abvs_U0C56_glyph473" format="1">
+  <advance width="1336"/>
+  <outline>
+    <component base="U0C02" xOffset="17"/>
+    <component base="U0C41" xOffset="502"/>
+    <component base="U0C41" xOffset="1025"/>
+    <component base="U0C41" xOffset="754"/>
+    <component base="superscript" xOffset="85"/>
+    <component base="drop" xOffset="550"/>
+    <contour>
+      <point x="424" y="-4" type="move" name="mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

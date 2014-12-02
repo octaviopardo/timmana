@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U0C56_U0C24_U0C4D.blwf.blws" format="1">
+  <advance width="9"/>
+  <outline>
+    <component base="glyph511.alt" xOffset="-82" yOffset="217"/>
+    <component base="glyph511.alt02" xOffset="-571" yOffset="-23"/>
+    <contour>
+      <point x="-332" y="0" type="move" name="_mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

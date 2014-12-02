@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U0C15_U0C4B.abvs" format="1">
+  <advance width="879"/>
+  <outline>
+    <component base="U0C15_U0C4A.abvs" xOffset="2"/>
+    <component base="U0C55" xOffset="531" yOffset="39"/>
+    <contour>
+      <point x="233" y="-17" type="move" name="mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

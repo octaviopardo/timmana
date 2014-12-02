@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U0C2A_U0C4D_U0C30_U0C4D" format="1">
+  <advance width="276"/>
+  <outline>
+    <contour>
+      <point x="83" y="-216" type="line"/>
+      <point x="59" y="-291"/>
+      <point x="4" y="-328"/>
+      <point x="-81" y="-328" type="curve" smooth="yes"/>
+      <point x="-139" y="-328"/>
+      <point x="-244" y="-296"/>
+      <point x="-236" y="-223" type="curve"/>
+      <point x="-368" y="-223" type="line"/>
+      <point x="-356" y="-279"/>
+      <point x="-313" y="-320"/>
+      <point x="-256" y="-351" type="curve"/>
+      <point x="-209" y="-375"/>
+      <point x="-149" y="-381"/>
+      <point x="-80" y="-381" type="curve" smooth="yes"/>
+      <point x="-17" y="-381"/>
+      <point x="45" y="-372"/>
+      <point x="109" y="-337" type="curve"/>
+      <point x="178" y="-302"/>
+      <point x="209" y="-235"/>
+      <point x="220" y="-216" type="curve"/>
+    </contour>
+    <component base="U0C2A_U0C4D.blwf_U0C" xOffset="-137" yOffset="23"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>
